@@ -1,7 +1,7 @@
-Backbone PushState Example
+Backbone SPA PushState Example on S3
 ==============================================================================
 
-Backbone PushState Example.
+Backbone.js SPA PushState Example on S3.
 
 How to Build
 ------------------------------------------------------------------------------
